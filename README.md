@@ -10,4 +10,4 @@ python game.py
 
 ## Screenshots
 
-![Game](https://imgur.com/a/rYk0BxK.png)
+![Game](https://imgur.com/JZ1Skg4.png)
